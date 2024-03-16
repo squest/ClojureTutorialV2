@@ -1,13 +1,9 @@
 (ns app.core)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
-
 ;; Coba bikin dong function prime-list yg terima input lim
 ;; terus gue pengen returnnya tuh [jumlah list-of-primes-less-than-lim]
 ;; algonya pake sieve ya, jadi pake boolean-array
+;; let's change this part into something else
 
 (defn prime-list
   "Generate list of primes less than lim"
