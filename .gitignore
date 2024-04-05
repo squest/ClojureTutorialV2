@@ -14,3 +14,6 @@ pom.xml.asc
 .cpcache/
 /clojure-basic/app/.idea/*
 /clojure-basic/app/app.iml
+/clojure-practical/app/.idea
+/clojure-practical/app/app.iml
+/clojure-basic/.DS_Store
